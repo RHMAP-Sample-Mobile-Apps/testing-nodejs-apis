@@ -2,6 +2,7 @@
   "name": "testing-express",
   "version": "1.0.0",
   "description": "Simple testing example",
+  "license": "mit",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
